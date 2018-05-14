@@ -34,6 +34,7 @@ Springer Nature's shared front-end component packages, published via NPM.
 Immagine is the image manipulation service for [nature.com](https://www.nature.com).
 
 ## Linters
+
 [Springer Nature ESLint config](https://github.com/springernature/eslint-config-springernature)  
 The ESLint shareable config used at Springer Nature.
 
