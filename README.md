@@ -30,7 +30,7 @@ Springer Nature's shared front-end component packages, published via NPM.
 
 ## Image manipulation
 
-[Immagine](https://github.com/springernature/immagine)
+[Immagine](https://github.com/springernature/immagine)  
 Immagine is the image manipulation service for [nature.com](https://www.nature.com).
 
 ## Linters
