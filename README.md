@@ -94,3 +94,10 @@ A [Behat](http://behat.org/en/latest/) extension that integrates the ZendFramewo
 
 [Macmillan Utils](https://github.com/springernature/macmillan-utils)  
 A collection of useful patterns we use in our Ruby applications.
+
+### Scala
+
+[DUL Protocol Validator](https://github.com/springernature/DUL-Protocol-Validator)
+This project holds the JSON Schema, as well as a Scala implementation of the forementioned schema, which can be used to
+validate messages exchanged between Publishers and Content services. This project is known as Distributed Usage Logging.
+To read more about it, please check [Project DUL](https://www.crossref.org/community/project-dul/)
