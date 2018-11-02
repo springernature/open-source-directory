@@ -95,7 +95,7 @@ A [Behat](http://behat.org/en/latest/) extension that integrates the ZendFramewo
 [Macmillan Utils](https://github.com/springernature/macmillan-utils)  
 A collection of useful patterns we use in our Ruby applications.
 
-[Slack Channel Archiver](https://github.com/springernature/slack-channel-archiver)
+[Slack Channel Archiver](https://github.com/springernature/slack-channel-archiver)  
 A simple tool to aid in archiving stale channels in [Slack](https://slack.com/).
 
 ### Scala
