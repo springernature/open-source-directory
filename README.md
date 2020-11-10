@@ -51,14 +51,6 @@ SciGraph is the Springer Nature linked data platform that collates information f
 [Thundermole](https://github.com/springernature/thundermole)  
 Proxy or redirect requests to different applications based on an API response. Read about [how we use Thundermole](http://cruft.io/posts/complex-routing-logic-with-thundermole/).
 
-## Web frameworks
-
-[Samatra](https://github.com/springernature/samatra)  
-[Samatra extras](https://github.com/springernature/samatra-extras)  
-[Samatra testing](https://github.com/springernature/samatra-testing)  
-[Samatra project template](https://github.com/springernature/samatra.g8)  
-Minimal web framework in the spirit of [Scalatra](http://www.scalatra.org). 
-
 ## Web performance tools
 
 [Boomcatch](https://github.com/springernature/boomcatch)  
