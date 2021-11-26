@@ -12,14 +12,6 @@ A CLI for interacting with [Halfpipe](https://docs.halfpipe.io/).
 [Front-end Playbook](https://github.com/springernature/frontend-playbook)  
 The Springer Nature Front-End Playbook details how we make our web and mobile products.  
 
-## Feature flagging
-
-[Bandiera](https://github.com/springernature/bandiera)  
-[Bandiera client - Ruby](https://github.com/springernature/bandiera-client-ruby)  
-[Bandiera client - Node](https://github.com/springernature/bandiera-client-node)  
-[Bandiera client - PHP](https://github.com/springernature/bandiera-client-php)  
-Bandiera is a simple, stand-alone feature flagging service over a REST API that is not tied to any existing web framework or language.
-
 ## Front-end tools
 
 [Shunter](https://github.com/springernature/shunter)  
@@ -27,11 +19,6 @@ Shunter is a Node.js application built to read JSON and translate it into HTML. 
 
 [Front-end global toolkit](https://github.com/springernature/frontend-global-toolkit)  
 Springer Nature's shared front-end component packages, published via NPM.
-
-## Image manipulation
-
-[Immagine](https://github.com/springernature/immagine)  
-Immagine is the image manipulation service for [nature.com](https://www.nature.com).
 
 ## Linters
 
@@ -45,11 +32,6 @@ Dustmite is a linter for [DustJS](https://github.com/linkedin/dustjs). It checks
 
 [Scigraph](https://github.com/springernature/scigraph)  
 SciGraph is the Springer Nature linked data platform that collates information from across the research landscape, i.e. the things, documents, people, places and relations of importance to the science and scholarly domain. See the project homepage https://www.springernature.com/scigraph for more information.
-
-## Proxies and routers
-
-[Thundermole](https://github.com/springernature/thundermole)  
-Proxy or redirect requests to different applications based on an API response. Read about [how we use Thundermole](http://cruft.io/posts/complex-routing-logic-with-thundermole/).
 
 ## Web performance tools
 
