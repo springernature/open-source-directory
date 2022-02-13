@@ -7,7 +7,7 @@ This is a public listing of all the open source software published by Springer N
 [Halfpipe CLI](https://github.com/springernature/halfpipe)  
 A CLI for interacting with [Halfpipe](https://docs.halfpipe.io/). 
 
-[buildpack-update-action](https://github.com/springernature/buildpack-update-action)  
+[cf-buildpack-update-action](https://github.com/springernature/cf-buildpack-update-action)  
 A GitHub Action to allow you to scan projects for out-of-date Cloufoundry buildpacks. 
 
 ## Documentation
